@@ -1,0 +1,9 @@
+C:\Users\Hp\Desktop\ITP Project\Stock Management\StockManagenent\StockManagenent\bin\Debug\StockManagenent.exe.config
+C:\Users\Hp\Desktop\ITP Project\Stock Management\StockManagenent\StockManagenent\bin\Debug\StockManagenent.exe
+C:\Users\Hp\Desktop\ITP Project\Stock Management\StockManagenent\StockManagenent\bin\Debug\StockManagenent.pdb
+C:\Users\Hp\Desktop\ITP Project\Stock Management\StockManagenent\StockManagenent\obj\Debug\StockManagenent.csprojResolveAssemblyReference.cache
+C:\Users\Hp\Desktop\ITP Project\Stock Management\StockManagenent\StockManagenent\obj\Debug\StockManagenent.Form1.resources
+C:\Users\Hp\Desktop\ITP Project\Stock Management\StockManagenent\StockManagenent\obj\Debug\StockManagenent.Properties.Resources.resources
+C:\Users\Hp\Desktop\ITP Project\Stock Management\StockManagenent\StockManagenent\obj\Debug\StockManagenent.csproj.GenerateResource.Cache
+C:\Users\Hp\Desktop\ITP Project\Stock Management\StockManagenent\StockManagenent\obj\Debug\StockManagenent.exe
+C:\Users\Hp\Desktop\ITP Project\Stock Management\StockManagenent\StockManagenent\obj\Debug\StockManagenent.pdb
